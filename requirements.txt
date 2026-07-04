@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-mistralai
+
+python-dotenv
+
+pydantic
+
+ipykernel
+jupyter
+fastapi
+uvicorn
