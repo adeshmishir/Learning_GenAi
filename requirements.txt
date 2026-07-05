@@ -18,3 +18,5 @@ uvicorn
 
 ipykernel
 jupyter
+streamlit
+torchvision
