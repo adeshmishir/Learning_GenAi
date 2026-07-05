@@ -3,12 +3,18 @@ langchain-core
 langchain-community
 langchain-groq
 langchain-mistralai
+langchain-huggingface
+
+huggingface_hub
+sentence-transformers
+transformers
+torch
 
 python-dotenv
-
 pydantic
+
+fastapi
+uvicorn
 
 ipykernel
 jupyter
-fastapi
-uvicorn
